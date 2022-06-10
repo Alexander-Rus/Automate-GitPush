@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-    <img alt="Gatsby" src="https://en.wikipedia.org/wiki/Bash_(Unix_shell)#/media/File:Gnu-bash-logo.svg" width="60" />
+    <img alt="Gatsby" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="60" />
 </p>
 <h1 align="center">
   Simply Bash Script to Automate Git pushes
