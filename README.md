@@ -14,7 +14,7 @@ Therefore, I have made this simple bash script for Ubuntu, where you can simple 
 
 In the future I may add additional functionality, but for now this is simple and keeps my git pushes consistent and quick.
 
-## 🚀 Quick start
+## 🚀 Quick start 
 
 1.  Clone this repository to your local machine.
 
