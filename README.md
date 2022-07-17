@@ -34,3 +34,4 @@ In the future I may add additional functionality, but for now this is simple and
 	git remote add origin git@github.com:Alexander-Rus/Automate-GitPush.git
 	git push -u origin main
 	```
+ 
