@@ -16,7 +16,7 @@ In the future I may add additional functionality, but for now this is simple and
 
 ## 🚀 Quick start 
 
-1.  Clone this repository to your local machine.
+1.  Clone this repository to your local machine. 
 
     You won't need the README.md file, that is just a description file.
     
